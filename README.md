@@ -30,3 +30,6 @@ Also this ruler helps you, when you want to create a PCB, because you can see di
 
 # PCBrulerS(CYBERSTORM)
 
+.kicad_mod files must be placed in a folder called "logo" or else you wil get an error when opening the PCB file. If you still get an error then try adding it as a library in KiCad
+
+Happy hacking :)
